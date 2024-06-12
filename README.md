@@ -43,7 +43,7 @@ If you use this code, please cite the following papers.
 ```
 @inproceedings{ParkKK24,
   author    = {Junghun Kim, Ka Hyun Park, Jun-gi Jang, and U Kang},
-  title     = {Fast and Accurate Domain Adaptation for Irregular~Tensor~Decomposition},
+  title     = {Fast and Accurate Domain Adaptation for Irregular Tensor Decomposition},
   booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
   year      = {2024}
 }
