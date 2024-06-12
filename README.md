@@ -36,9 +36,15 @@ python main.py --data {dataset} --abnormal-ratio {abnormal_ratio} --task {task} 
 - {task}: Task to perform. One of missing-value-prediction or anomaly-detection
 - {rank}: Target rank of decomposition
 
-## Run demo
+## Reference
 
-You can run a demo script `run.sh` that reproduces the experimental results in the paper by the following command.
+If you use this code, please cite the following papers.
+
 ```
-bash run.sh
+@inproceedings{ParkKK24,
+  author    = {Junghun Kim, Ka Hyun Park, Jun-gi Jang, and U Kang},
+  title     = {Fast and Accurate Domain Adaptation for Irregular~Tensor~Decomposition},
+  booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
+  year      = {2024}
+}
 ```
