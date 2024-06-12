@@ -41,7 +41,7 @@ python main.py --data {dataset} --abnormal-ratio {abnormal_ratio} --task {task} 
 If you use this code, please cite the following papers.
 
 ```
-@inproceedings{ParkKK24,
+@inproceedings{Kim24MetaP2,
   author    = {Junghun Kim, Ka Hyun Park, Jun-gi Jang, and U Kang},
   title     = {Fast and Accurate Domain Adaptation for Irregular Tensor Decomposition},
   booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
