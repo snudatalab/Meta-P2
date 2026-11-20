@@ -1,7 +1,19 @@
 """
-Fast and Accurate Domain Adaptation for Irregular Tensor Decomposition (submitted to KDD 2024)
+Fast and Accurate Domain Adaptation for Irregular Tensor Decomposition (KDD 2024)
+Fast and Accurate Domain Adaptation for Irregular and Regular Tensor Decomposition (TKDE 2026)
+
+Authors:
+- Junghun Kim (bandalg97@snu.ac.kr), Seoul National University
+- Ka Hyun Park (kahyun.park@snu.ac.kr), Seoul National University
+- Jun-Gi Jang (jungi@dgist.ac.kr), DGIST
+- U Kang (ukang@snu.ac.kr), Seoul National University
+
 This software may be used only for research evaluation purposes.
+
 For other purposes (e.g., commercial), please contact the authors.
+
+main.py
+    - codes for running the overall process of Meta-P2
 """
 
 import argparse
