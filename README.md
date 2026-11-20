@@ -42,9 +42,19 @@ If you use this code, please cite the following papers.
 
 ```
 @inproceedings{Kim24MetaP2,
-  author    = {Junghun Kim, Ka Hyun Park, Jun-gi Jang, and U Kang},
+  author    = {Junghun Kim and Ka Hyun Park and Jun-gi Jang and U Kang},
   title     = {Fast and Accurate Domain Adaptation for Irregular Tensor Decomposition},
   booktitle = {ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD)},
   year      = {2024}
+}
+
+@article{journals/tkde/KimPJK26,
+  author    = {Junghun Kim and Ka Hyun Park and Jun{-}Gi Jang and U Kang},
+  title     = {Fast and Accurate Domain Adaptation for Irregular and Regular Tensor Decomposition},
+  journal   = {{IEEE} Trans. Knowl. Data Eng.},
+  volume    = {38},
+  number    = {4},
+  pages     = {2249--2261},
+  year      = {2026},
 }
 ```
